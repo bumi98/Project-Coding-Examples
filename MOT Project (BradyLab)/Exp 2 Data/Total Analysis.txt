@@ -1,0 +1,51 @@
+Mu
+Set Size 1, Staionary is 10.5232
+Set Size 1, Moving is -3.0214
+Set Size 2, Staionary is 10.3754
+Set Size 2, Moving is -7.366
+ 
+Sd
+Set Size 1, Stationary is 22.121
+Set Size 1, Moving is 17.6546
+Set Size 2, Staionary is 25.8099
+Set Size 2, Moving is 21.9517
+
+subject #1-6
+
+
+Mu
+Set Size 1, Staionary is 5.8154
+Set Size 1, Moving is -4.3979
+Set Size 2, Staionary is 4.9507
+Set Size 2, Moving is -7.5398
+ 
+Sd
+Set Size 1, Stationary is 19.8977
+Set Size 1, Moving is 17.2616
+Set Size 2, Staionary is 26.3002
+Set Size 2, Moving is 21.8172
+
+subject #1-20
+
+
+------------------------------------------
+
+Subject #1-30
+
+Mu
+Set Size 1, Staionary is 4.449
+Set Size 1, Moving is -4.7124
+Set Size 2, Staionary is 4.2989
+Set Size 2, Moving is -7.9067
+ 
+Sd
+Set Size 1, Stationary is 18.9493
+Set Size 1, Moving is 16.891
+Set Size 2, Staionary is 25.2209
+Set Size 2, Moving is 22.1106
+
+Color Change Speed Judgement
+Set Size 1, Staionary is 3.2333
+Set Size 1, Moving is 3.3111
+Set Size 2, Staionary is 3.4794
+Set Size 2, Moving is 3.395
